@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am M. Sai Pranav I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-M-Sai-Pranav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/M-Sai-Pranav/)](https://www.linkedin.com/in/moluguri-sai-pranav/)
+[![Linkedin Badge](https://img.shields.io/badge/-moluguri-sai-pranav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moluguri-sai-pranav/)](https://www.linkedin.com/in/moluguri-sai-pranav/)
 <!--  [![Medium Badge](https://img.shields.io/badge/rashedul-alam-12100E?style=flat-square&logo=medium&logoColor=white&link=https://rashedul-alam.medium.com/)](https://rashedul-alam.medium.com/) -->
 <!-- [![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdraanik12@gmail.com)](mailto:mdraanik12@gmail.com) -->
 

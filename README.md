@@ -54,6 +54,7 @@ I am M. Sai Pranav I am a Full-Stack JavaScript developer and love writing clean
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=M-Sai-Pranav&show_icons=true&locale=en" alt="M-Sai-Pranav" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=M-Sai-Pranav&show_icons=true&locale=en&layout=compact" alt="M-Sai-Pranav" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=M-Sai-Pranav&" alt="M-Sai-Pranav" /></p>
 

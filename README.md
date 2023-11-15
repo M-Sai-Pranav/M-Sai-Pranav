@@ -52,6 +52,5 @@ I am M. Sai Pranav I am a Full-Stack JavaScript developer and love writing clean
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=M-Sai-Pranav.M-Sai-Pranav)
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=M-Sai-Pranav&" alt="M-Sai-Pranav" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=M-Sai-Pranav)](https://git.io/streak-stats)
 

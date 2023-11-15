@@ -20,7 +20,7 @@ I am M. Sai Pranav I am a Full-Stack JavaScript developer and love writing clean
 [![Linkedin Badge](https://img.shields.io/badge/-M.SaiPranav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/M.SaiPranav/)](https://www.linkedin.com/in/moluguri-sai-pranav/)
 <!--  [![Medium Badge](https://img.shields.io/badge/rashedul-alam-12100E?style=flat-square&logo=medium&logoColor=white&link=https://rashedul-alam.medium.com/)](https://rashedul-alam.medium.com/) -->
 <!-- [![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdraanik12@gmail.com)](mailto:mdraanik12@gmail.com) -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=M-Sai-Pranav" alt="M-Sai-Pranav" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=M-Sai-Pranav)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## ⚡ Technologies
